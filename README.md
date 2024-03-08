@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I specialize in web development <br><br>🎓 Currently pursuing my studies in Information Technology.<br><br>🌱 I’m currently learning Machine Learning.<br><br>💡 I'm open to exciting projects and collaborations, so feel free to reach out at jitesh02jitesh02@gmail.com
+🌟 I specialize in web development <br><br>🎓 Currently pursuing my studies in Information Technology.<br><br>💡 I'm open to exciting projects and collaborations, so feel free to reach out at jitesh02jitesh02@gmail.com
 
 
 # 💻 Tech Stack:
