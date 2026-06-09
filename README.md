@@ -15,6 +15,7 @@ Passionate about Machine Learning, Artificial Intelligence, Generative AI, and D
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-FF5733?style=for-the-badge)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
