@@ -11,8 +11,8 @@ Passionate about Generative AI, Agentic AI, Data Engineering, Machine Learning, 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF1493?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
 ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-FF5733?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
